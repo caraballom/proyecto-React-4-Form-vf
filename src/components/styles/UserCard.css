@@ -1,0 +1,20 @@
+.article {
+    margin-left: 2em;
+    margin-top: 2em;
+    background-color: #0001 ;
+    width: fit-content;
+    padding: 1em;
+}
+.article-tittle {
+    margin-bottom: 1em;
+}
+.article-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    
+}
+.article-btn {
+    font-size: 1.1em;
+    margin-top: 1em;
+}
